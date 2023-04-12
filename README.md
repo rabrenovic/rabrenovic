@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikola Rabrenović</h1>
 <h3 align="center">A passionate Front-End developer from Serbia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.codedex.io/images/codedex-bot-logo.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabrenovic&label=Profile%20views&color=0e75b6&style=flat" alt="rabrenovic" /> </p>
 
